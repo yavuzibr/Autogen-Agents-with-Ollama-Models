@@ -5,9 +5,11 @@ litellm
 
 ## Installation
 conda create -n autogen python=3.11
+
 conda activate autogen
 
 pip install pyautogen
+
 pip install litellm
 
 ### Ollama Models on local
